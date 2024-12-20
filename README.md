@@ -1,7 +1,7 @@
 # LEGAL-INFO
 Describes the liscence used for all DuoLunar Network repositories (SCA-DT-OSSL-1.1). All repositories in this organization are always under this liscence.
 # The thing you actually clicked for
-Scratch Computing Alliance Off-Scratch Software License 1.0 (project delta version) (SCA-DT-OSSL-1.1)
+Scratch Computing Alliance Off-Scratch Software License 1.1 (project delta version) (SCA-DT-OSSL-1.1)
 
 Copyright 2024 Scratch Computing Alliance
 
